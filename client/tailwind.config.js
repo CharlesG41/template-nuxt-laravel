@@ -10,8 +10,11 @@ module.exports = {
         'lightPurple': '#d3cfe2'
       },
       fontFamily: {
-        'robBlack': ['Roboto-Black'],
-        'robRegular': ['Roboto-Regular']
+        'robBold': ['Roboto-Bold'],
+        'robRegular': ['Roboto-Regular'],
+        'robLight': ['Roboto-Light'],
+        'wsRegular': ['WorkSans-Regular'],
+        'wsLight': ['WorkSans-Light'],
       },
     }
   },

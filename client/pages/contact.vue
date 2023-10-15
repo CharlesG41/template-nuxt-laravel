@@ -5,5 +5,5 @@
 </template>
 
 <script setup>
-const { data } = await useAsyncData('contact', () => $fetch('http://localhost:8000/api/pages/contact'))
+const { data } = await useAsyncData('contact', () => $fetch('/pages/contact'))
 </script>

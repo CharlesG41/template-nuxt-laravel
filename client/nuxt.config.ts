@@ -4,8 +4,6 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss',
         '@nuxtjs/i18n',
         '@pinia/nuxt',
-        '@nuxtjs/axios',
-        '@nuxtjs/auth'
     ],
     i18n: {
         defaultLocale: 'fr',
